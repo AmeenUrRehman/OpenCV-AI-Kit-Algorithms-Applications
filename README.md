@@ -8,16 +8,16 @@ The repository is organized into multiple directories, each representing a speci
 
 Here are some of the computer vision algorithms and applications covered in this repository:
 
-1. Image Filtering and Enhancement
-2. Object Detection and Tracking
-3. Face Recognition
-4. Optical Character Recognition (OCR)
-5. Feature Extraction and Matching
-6. Image Segmentation
-7. Camera Calibration and 3D Reconstruction
-8. Augmented Reality (AR) and Virtual Reality (VR)
-9. Gesture Recognition
-10. Motion Detection and Tracking
+1. Image Filtering and Enhancement.
+2. Object Detection and Tracking.
+3. Face Recognition.
+4. Optical Character Recognition (OCR).
+5. Feature Extraction and Matching.
+6. Image Segmentation.
+7. Camera Calibration and 3D Reconstruction.
+8. Augmented Reality (AR) and Virtual Reality (VR).
+9. Gesture Recognition.
+10. Motion Detection and Tracking.
 
 ## Getting Started
 
