@@ -2,7 +2,7 @@
 
 Welcome to the OpenCV Algorithms and Applications repository! This repository serves as a comprehensive resource for learning and implementing various computer vision algorithms and applications using OpenCV. Whether you're a beginner or an experienced developer, this repository provides a wide range of projects and examples to help you explore the capabilities of OpenCV.
 
-## Repository Overview
+## Repository Overview.
 
 The repository is organized into multiple directories, each representing a specific computer vision algorithm or application. Each directory contains a README file that explains the algorithm or application, its underlying principles, and step-by-step implementation instructions using OpenCV. Additionally, you will find example code and sample images or videos to help you understand and experiment with the concepts.
 
