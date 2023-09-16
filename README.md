@@ -27,7 +27,7 @@ Once you have set up your environment, you can navigate to the directory of the 
 
 Feel free to experiment with and adapt the code to your specific needs. You can use your own images or videos to apply the algorithms and explore their capabilities further. The repository encourages hands-on learning and encourages you to modify the code to gain a deeper understanding of the concepts.
 
-## Contribution and Support
+## Contribution and Support.
 
 Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional algorithms or applications you would like to add, feel free to submit a pull request. The repository aims to provide a collaborative learning environment where individuals can share their knowledge and learn from each other.
 
